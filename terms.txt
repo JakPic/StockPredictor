@@ -1,0 +1,14 @@
+DISCLAIMERS
+For the best user experience please use the program in full screen mode and ensure that the system scale is set to 100%.
+
+If a date range is inputted before the IPO of a given security, the date will still display, however, the data will be taken from the initial public offering until the selected end date.
+
+To query a specific time range, the user must enter the start date and end date and click the apply time range button.
+
+When a new stock is queried, the maximum time range for that stock will be displayed.
+
+If a queried start date is beyond the end date, the system will remain unchanged.
+
+
+TERMS & CONDITIONS
+This serves as a reminder that these are only projections based on previous data and should not be taken as reality or a guarantee of precision. The data we use comes from Yahoo! Finance. We are not responsible for any losses incurred as a result of inaccurate projections or data. Invest only if you're willing to take a chance.
